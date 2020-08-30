@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GIF Carousel</string>
+    <string name="tryAgain">Повторить попытку</string>
+    <string name="lost_connection">Не удалось загрузить изображение. Проверьте подключение к сети</string>
+</resources>
